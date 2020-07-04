@@ -9,9 +9,11 @@ export default () => (
   <>
     <Header titlePre="Home" />
     <div className="homePage">
+      <span> 
       <p>
         Here you can find all of my writing.
       </p>
+        </span>
     </div>
   </>
 )
