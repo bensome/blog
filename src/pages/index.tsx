@@ -8,7 +8,7 @@ import sharedStyles from '../styles/shared.module.css'
 export default () => (
   <>
     <Header titlePre="Home" />
-    <div className=homePage>
+    <div className="homePage">
       <p>
         Here you can find all of my writing.
       </p>
